@@ -1,0 +1,3 @@
+- Sim
+- Student
+- Learning C#, PHP, JS, SQL, HTML, CSS
